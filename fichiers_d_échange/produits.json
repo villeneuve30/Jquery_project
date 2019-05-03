@@ -1,0 +1,796 @@
+[
+    {
+        "id": 1,
+        "categorie": {
+            "id": 1,
+            "libelle": "Boissons",
+            "produits": [
+                {
+                    "id": 1,
+                    "categorie": null,
+                    "libelle": "Super jus du matin, aux fruits rouges, 750ml",
+                    "reference": "SJM",
+                    "image": "https:\/\/21938d87035b057bdf6c-90af61dee2ae7cca81416da93cc58570.ssl.cf3.rackcdn.com\/scale\/150\/200\/d9a1e82bf28a05a80c4d00a8ef11c4a326ec3064.jpg",
+                    "ventes": [
+                        null,
+                        null
+                    ],
+                    "prixVente": 2.59,
+                    "prixAchat": 1.3,
+                    "selfStock": 15,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 2,
+                    "categorie": null,
+                    "libelle": "Pur jus r\u00e9frig\u00e9r\u00e9 ananas\/fruit de la passion, 900ml",
+                    "reference": "ANAFP",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 2.45,
+                    "prixAchat": 1.2,
+                    "selfStock": 156,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 3,
+                    "categorie": null,
+                    "libelle": "Pur jus mon p'tit jus de pomme 6x 20 cl",
+                    "reference": "TROP1",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 3.99,
+                    "prixAchat": 2,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 4,
+                    "categorie": null,
+                    "libelle": "Jus de pomme \u00e0 base de concentr\u00e9 , 1 L",
+                    "reference": "CONCP",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 1.04,
+                    "prixAchat": 0.52,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Super jus du matin, aux fruits rouges, 750ml",
+        "reference": "SJM",
+        "image": "https:\/\/21938d87035b057bdf6c-90af61dee2ae7cca81416da93cc58570.ssl.cf3.rackcdn.com\/scale\/150\/200\/d9a1e82bf28a05a80c4d00a8ef11c4a326ec3064.jpg",
+        "ventes": [
+            {
+                "id": 1,
+                "commande": {
+                    "id": 1,
+                    "date": "2018-03-14 18:39:00",
+                    "client": null,
+                    "dateLivraison": "2018-03-29 18:39:00",
+                    "lignes": [
+                        null,
+                        null
+                    ],
+                    "adresseLivraison": null
+                },
+                "produit": {
+                    "id": 1,
+                    "categorie": null,
+                    "libelle": "Super jus du matin, aux fruits rouges, 750ml",
+                    "reference": "SJM",
+                    "image": "https:\/\/21938d87035b057bdf6c-90af61dee2ae7cca81416da93cc58570.ssl.cf3.rackcdn.com\/scale\/150\/200\/d9a1e82bf28a05a80c4d00a8ef11c4a326ec3064.jpg",
+                    "ventes": [
+                        null,
+                        null
+                    ],
+                    "prixVente": 2.59,
+                    "prixAchat": 1.3,
+                    "selfStock": 15,
+                    "fournisseurStocks": []
+                },
+                "quantite": 200
+            },
+            {
+                "id": 3,
+                "commande": {
+                    "id": 2,
+                    "date": "2018-03-14 18:40:00",
+                    "client": null,
+                    "dateLivraison": "2018-03-29 18:40:00",
+                    "lignes": [
+                        null,
+                        null
+                    ],
+                    "adresseLivraison": null
+                },
+                "produit": {
+                    "id": 1,
+                    "categorie": null,
+                    "libelle": "Super jus du matin, aux fruits rouges, 750ml",
+                    "reference": "SJM",
+                    "image": "https:\/\/21938d87035b057bdf6c-90af61dee2ae7cca81416da93cc58570.ssl.cf3.rackcdn.com\/scale\/150\/200\/d9a1e82bf28a05a80c4d00a8ef11c4a326ec3064.jpg",
+                    "ventes": [
+                        null,
+                        null
+                    ],
+                    "prixVente": 2.59,
+                    "prixAchat": 1.3,
+                    "selfStock": 15,
+                    "fournisseurStocks": []
+                },
+                "quantite": 800
+            }
+        ],
+        "prixVente": 2.59,
+        "prixAchat": 1.3,
+        "selfStock": 15,
+        "fournisseurStocks": []
+    },
+    {
+        "id": 2,
+        "categorie": {
+            "id": 1,
+            "libelle": "Boissons",
+            "produits": [
+                {
+                    "id": 1,
+                    "categorie": null,
+                    "libelle": "Super jus du matin, aux fruits rouges, 750ml",
+                    "reference": "SJM",
+                    "image": "https:\/\/21938d87035b057bdf6c-90af61dee2ae7cca81416da93cc58570.ssl.cf3.rackcdn.com\/scale\/150\/200\/d9a1e82bf28a05a80c4d00a8ef11c4a326ec3064.jpg",
+                    "ventes": [
+                        null,
+                        null
+                    ],
+                    "prixVente": 2.59,
+                    "prixAchat": 1.3,
+                    "selfStock": 15,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 2,
+                    "categorie": null,
+                    "libelle": "Pur jus r\u00e9frig\u00e9r\u00e9 ananas\/fruit de la passion, 900ml",
+                    "reference": "ANAFP",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 2.45,
+                    "prixAchat": 1.2,
+                    "selfStock": 156,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 3,
+                    "categorie": null,
+                    "libelle": "Pur jus mon p'tit jus de pomme 6x 20 cl",
+                    "reference": "TROP1",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 3.99,
+                    "prixAchat": 2,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 4,
+                    "categorie": null,
+                    "libelle": "Jus de pomme \u00e0 base de concentr\u00e9 , 1 L",
+                    "reference": "CONCP",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 1.04,
+                    "prixAchat": 0.52,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Pur jus r\u00e9frig\u00e9r\u00e9 ananas\/fruit de la passion, 900ml",
+        "reference": "ANAFP",
+        "image": "",
+        "ventes": [
+            {
+                "id": 4,
+                "commande": {
+                    "id": 2,
+                    "date": "2018-03-14 18:40:00",
+                    "client": null,
+                    "dateLivraison": "2018-03-29 18:40:00",
+                    "lignes": [
+                        null,
+                        null
+                    ],
+                    "adresseLivraison": null
+                },
+                "produit": {
+                    "id": 2,
+                    "categorie": null,
+                    "libelle": "Pur jus r\u00e9frig\u00e9r\u00e9 ananas\/fruit de la passion, 900ml",
+                    "reference": "ANAFP",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 2.45,
+                    "prixAchat": 1.2,
+                    "selfStock": 156,
+                    "fournisseurStocks": []
+                },
+                "quantite": 500
+            }
+        ],
+        "prixVente": 2.45,
+        "prixAchat": 1.2,
+        "selfStock": 156,
+        "fournisseurStocks": []
+    },
+    {
+        "id": 3,
+        "categorie": {
+            "id": 1,
+            "libelle": "Boissons",
+            "produits": [
+                {
+                    "id": 1,
+                    "categorie": null,
+                    "libelle": "Super jus du matin, aux fruits rouges, 750ml",
+                    "reference": "SJM",
+                    "image": "https:\/\/21938d87035b057bdf6c-90af61dee2ae7cca81416da93cc58570.ssl.cf3.rackcdn.com\/scale\/150\/200\/d9a1e82bf28a05a80c4d00a8ef11c4a326ec3064.jpg",
+                    "ventes": [
+                        null,
+                        null
+                    ],
+                    "prixVente": 2.59,
+                    "prixAchat": 1.3,
+                    "selfStock": 15,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 2,
+                    "categorie": null,
+                    "libelle": "Pur jus r\u00e9frig\u00e9r\u00e9 ananas\/fruit de la passion, 900ml",
+                    "reference": "ANAFP",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 2.45,
+                    "prixAchat": 1.2,
+                    "selfStock": 156,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 3,
+                    "categorie": null,
+                    "libelle": "Pur jus mon p'tit jus de pomme 6x 20 cl",
+                    "reference": "TROP1",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 3.99,
+                    "prixAchat": 2,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 4,
+                    "categorie": null,
+                    "libelle": "Jus de pomme \u00e0 base de concentr\u00e9 , 1 L",
+                    "reference": "CONCP",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 1.04,
+                    "prixAchat": 0.52,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Pur jus mon p'tit jus de pomme 6x 20 cl",
+        "reference": "TROP1",
+        "image": "",
+        "ventes": [
+            {
+                "id": 2,
+                "commande": {
+                    "id": 1,
+                    "date": "2018-03-14 18:39:00",
+                    "client": null,
+                    "dateLivraison": "2018-03-29 18:39:00",
+                    "lignes": [
+                        null,
+                        null
+                    ],
+                    "adresseLivraison": null
+                },
+                "produit": {
+                    "id": 3,
+                    "categorie": null,
+                    "libelle": "Pur jus mon p'tit jus de pomme 6x 20 cl",
+                    "reference": "TROP1",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 3.99,
+                    "prixAchat": 2,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                },
+                "quantite": 20
+            }
+        ],
+        "prixVente": 3.99,
+        "prixAchat": 2,
+        "selfStock": 5,
+        "fournisseurStocks": []
+    },
+    {
+        "id": 4,
+        "categorie": {
+            "id": 1,
+            "libelle": "Boissons",
+            "produits": [
+                {
+                    "id": 1,
+                    "categorie": null,
+                    "libelle": "Super jus du matin, aux fruits rouges, 750ml",
+                    "reference": "SJM",
+                    "image": "https:\/\/21938d87035b057bdf6c-90af61dee2ae7cca81416da93cc58570.ssl.cf3.rackcdn.com\/scale\/150\/200\/d9a1e82bf28a05a80c4d00a8ef11c4a326ec3064.jpg",
+                    "ventes": [
+                        null,
+                        null
+                    ],
+                    "prixVente": 2.59,
+                    "prixAchat": 1.3,
+                    "selfStock": 15,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 2,
+                    "categorie": null,
+                    "libelle": "Pur jus r\u00e9frig\u00e9r\u00e9 ananas\/fruit de la passion, 900ml",
+                    "reference": "ANAFP",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 2.45,
+                    "prixAchat": 1.2,
+                    "selfStock": 156,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 3,
+                    "categorie": null,
+                    "libelle": "Pur jus mon p'tit jus de pomme 6x 20 cl",
+                    "reference": "TROP1",
+                    "image": "",
+                    "ventes": [
+                        null
+                    ],
+                    "prixVente": 3.99,
+                    "prixAchat": 2,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 4,
+                    "categorie": null,
+                    "libelle": "Jus de pomme \u00e0 base de concentr\u00e9 , 1 L",
+                    "reference": "CONCP",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 1.04,
+                    "prixAchat": 0.52,
+                    "selfStock": 5,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Jus de pomme \u00e0 base de concentr\u00e9 , 1 L",
+        "reference": "CONCP",
+        "image": "",
+        "ventes": [],
+        "prixVente": 1.04,
+        "prixAchat": 0.52,
+        "selfStock": 5,
+        "fournisseurStocks": []
+    },
+    {
+        "id": 5,
+        "categorie": {
+            "id": 2,
+            "libelle": "Fruits et L\u00e9gumes",
+            "produits": [
+                {
+                    "id": 5,
+                    "categorie": null,
+                    "libelle": "Abricot",
+                    "reference": "F1",
+                    "image": "http:\/\/cache.marieclaire.fr\/data\/photo\/w1000_c17\/cuisine\/4c\/abricottimur-fotolia.jpg",
+                    "ventes": [],
+                    "prixVente": 2.5,
+                    "prixAchat": 1.7,
+                    "selfStock": 20,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 6,
+                    "categorie": null,
+                    "libelle": "Kumquat",
+                    "reference": "F2",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.5,
+                    "prixAchat": 0.1,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 7,
+                    "categorie": null,
+                    "libelle": "Ananas",
+                    "reference": "F3",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 4,
+                    "prixAchat": 1.6,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 8,
+                    "categorie": null,
+                    "libelle": "Batavia",
+                    "reference": "L1",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.7,
+                    "prixAchat": 0.2,
+                    "selfStock": 1,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 9,
+                    "categorie": null,
+                    "libelle": "Artichaut",
+                    "reference": "L2",
+                    "image": null,
+                    "ventes": [],
+                    "prixVente": 1,
+                    "prixAchat": 0.3,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Abricot",
+        "reference": "F1",
+        "image": "http:\/\/cache.marieclaire.fr\/data\/photo\/w1000_c17\/cuisine\/4c\/abricottimur-fotolia.jpg",
+        "ventes": [],
+        "prixVente": 2.5,
+        "prixAchat": 1.7,
+        "selfStock": 20,
+        "fournisseurStocks": []
+    },
+    {
+        "id": 6,
+        "categorie": {
+            "id": 2,
+            "libelle": "Fruits et L\u00e9gumes",
+            "produits": [
+                {
+                    "id": 5,
+                    "categorie": null,
+                    "libelle": "Abricot",
+                    "reference": "F1",
+                    "image": "http:\/\/cache.marieclaire.fr\/data\/photo\/w1000_c17\/cuisine\/4c\/abricottimur-fotolia.jpg",
+                    "ventes": [],
+                    "prixVente": 2.5,
+                    "prixAchat": 1.7,
+                    "selfStock": 20,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 6,
+                    "categorie": null,
+                    "libelle": "Kumquat",
+                    "reference": "F2",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.5,
+                    "prixAchat": 0.1,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 7,
+                    "categorie": null,
+                    "libelle": "Ananas",
+                    "reference": "F3",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 4,
+                    "prixAchat": 1.6,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 8,
+                    "categorie": null,
+                    "libelle": "Batavia",
+                    "reference": "L1",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.7,
+                    "prixAchat": 0.2,
+                    "selfStock": 1,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 9,
+                    "categorie": null,
+                    "libelle": "Artichaut",
+                    "reference": "L2",
+                    "image": null,
+                    "ventes": [],
+                    "prixVente": 1,
+                    "prixAchat": 0.3,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Kumquat",
+        "reference": "F2",
+        "image": "",
+        "ventes": [],
+        "prixVente": 0.5,
+        "prixAchat": 0.1,
+        "selfStock": null,
+        "fournisseurStocks": []
+    },
+    {
+        "id": 7,
+        "categorie": {
+            "id": 2,
+            "libelle": "Fruits et L\u00e9gumes",
+            "produits": [
+                {
+                    "id": 5,
+                    "categorie": null,
+                    "libelle": "Abricot",
+                    "reference": "F1",
+                    "image": "http:\/\/cache.marieclaire.fr\/data\/photo\/w1000_c17\/cuisine\/4c\/abricottimur-fotolia.jpg",
+                    "ventes": [],
+                    "prixVente": 2.5,
+                    "prixAchat": 1.7,
+                    "selfStock": 20,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 6,
+                    "categorie": null,
+                    "libelle": "Kumquat",
+                    "reference": "F2",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.5,
+                    "prixAchat": 0.1,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 7,
+                    "categorie": null,
+                    "libelle": "Ananas",
+                    "reference": "F3",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 4,
+                    "prixAchat": 1.6,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 8,
+                    "categorie": null,
+                    "libelle": "Batavia",
+                    "reference": "L1",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.7,
+                    "prixAchat": 0.2,
+                    "selfStock": 1,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 9,
+                    "categorie": null,
+                    "libelle": "Artichaut",
+                    "reference": "L2",
+                    "image": null,
+                    "ventes": [],
+                    "prixVente": 1,
+                    "prixAchat": 0.3,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Ananas",
+        "reference": "F3",
+        "image": "",
+        "ventes": [],
+        "prixVente": 4,
+        "prixAchat": 1.6,
+        "selfStock": null,
+        "fournisseurStocks": []
+    },
+    {
+        "id": 8,
+        "categorie": {
+            "id": 2,
+            "libelle": "Fruits et L\u00e9gumes",
+            "produits": [
+                {
+                    "id": 5,
+                    "categorie": null,
+                    "libelle": "Abricot",
+                    "reference": "F1",
+                    "image": "http:\/\/cache.marieclaire.fr\/data\/photo\/w1000_c17\/cuisine\/4c\/abricottimur-fotolia.jpg",
+                    "ventes": [],
+                    "prixVente": 2.5,
+                    "prixAchat": 1.7,
+                    "selfStock": 20,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 6,
+                    "categorie": null,
+                    "libelle": "Kumquat",
+                    "reference": "F2",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.5,
+                    "prixAchat": 0.1,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 7,
+                    "categorie": null,
+                    "libelle": "Ananas",
+                    "reference": "F3",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 4,
+                    "prixAchat": 1.6,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 8,
+                    "categorie": null,
+                    "libelle": "Batavia",
+                    "reference": "L1",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.7,
+                    "prixAchat": 0.2,
+                    "selfStock": 1,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 9,
+                    "categorie": null,
+                    "libelle": "Artichaut",
+                    "reference": "L2",
+                    "image": null,
+                    "ventes": [],
+                    "prixVente": 1,
+                    "prixAchat": 0.3,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Batavia",
+        "reference": "L1",
+        "image": "",
+        "ventes": [],
+        "prixVente": 0.7,
+        "prixAchat": 0.2,
+        "selfStock": 1,
+        "fournisseurStocks": []
+    },
+    {
+        "id": 9,
+        "categorie": {
+            "id": 2,
+            "libelle": "Fruits et L\u00e9gumes",
+            "produits": [
+                {
+                    "id": 5,
+                    "categorie": null,
+                    "libelle": "Abricot",
+                    "reference": "F1",
+                    "image": "http:\/\/cache.marieclaire.fr\/data\/photo\/w1000_c17\/cuisine\/4c\/abricottimur-fotolia.jpg",
+                    "ventes": [],
+                    "prixVente": 2.5,
+                    "prixAchat": 1.7,
+                    "selfStock": 20,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 6,
+                    "categorie": null,
+                    "libelle": "Kumquat",
+                    "reference": "F2",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.5,
+                    "prixAchat": 0.1,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 7,
+                    "categorie": null,
+                    "libelle": "Ananas",
+                    "reference": "F3",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 4,
+                    "prixAchat": 1.6,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 8,
+                    "categorie": null,
+                    "libelle": "Batavia",
+                    "reference": "L1",
+                    "image": "",
+                    "ventes": [],
+                    "prixVente": 0.7,
+                    "prixAchat": 0.2,
+                    "selfStock": 1,
+                    "fournisseurStocks": []
+                },
+                {
+                    "id": 9,
+                    "categorie": null,
+                    "libelle": "Artichaut",
+                    "reference": "L2",
+                    "image": null,
+                    "ventes": [],
+                    "prixVente": 1,
+                    "prixAchat": 0.3,
+                    "selfStock": null,
+                    "fournisseurStocks": []
+                }
+            ]
+        },
+        "libelle": "Artichaut",
+        "reference": "L2",
+        "image": null,
+        "ventes": [],
+        "prixVente": 1,
+        "prixAchat": 0.3,
+        "selfStock": null,
+        "fournisseurStocks": []
+    }
+]

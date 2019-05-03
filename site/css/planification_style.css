@@ -1,0 +1,145 @@
+/*Parties communes*/
+
+#livraisons #map{
+  z-index: 0;
+}
+
+/*Style de la carte*/
+#map{
+  height: 600px;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+/*Page stock*/
+#tableauProduit{
+    margin: auto;
+    margin-top: 2%;
+    width:100%;
+    max-width:60%;
+    min-width:50%;
+    text-align:center;
+    border-collapse: collapse;
+    font-family: "Trebuchet MS", Verdana, Arial, Geneva, "Bitstream Vera Sans";
+}
+#tableauProduit td, th{
+    padding: 10px;
+    border:1px solid black;
+    width:150px;
+    vertical-align:middle;
+}
+#tableauProduit th{
+    background-color: #80c3ff;
+    font-weight: bold;
+    border:1px solid black;
+}
+
+#tableauProduit tr:nth-child(odd) td {
+    background-color: #F0F0F0;
+}
+#produitsDiv{
+    margin-top: 2%;
+}
+.infoCategorie img{
+    height: 50px;
+    width:auto;
+}
+.infoCategorie{
+    height: 60px;
+}
+#stock{
+    margin-bottom: 100px;
+}
+#labelCategorie{
+    width:50%;
+    margin-left: 20%;
+}
+.inputStock {
+ font: inherit;
+ width:60%;
+ text-align: center;
+}
+.inputStock:disabled {
+ border: none;
+ color: #696969;
+}
+/* fin page stock */
+
+
+/*Page Livraisons*/
+.cont{
+	display: inline-block;
+	float: left;
+	width: 25%;
+	border: solid 1px;
+}
+
+.calParLiv{
+  background-color: #B0E0E6;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 50px;
+  margin-left:400px;
+  width: 70%;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+#nomLivreur{
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.fc-license-message{
+  display: none;
+}
+
+.external-events {
+  float: left;
+  display: inline-block;
+  text-align: center;
+  top: 20px;
+  left: 20px;
+  width: 50%;
+  padding: 0 10px;
+  border: 1px solid #ccc;
+  background: #eee;
+}
+
+.external-events2{
+  height: 96.5px;
+}
+
+
+.fc-axis, .fc-widget-header, .fc-divider, .fc-day-grid, .fc-unselectable{
+  background-color: white;
+}
+
+.fc-left h2{
+  font-size: 20px;
+}
+
+.external-events .fc-event {
+  margin: 1em 0;
+  cursor: move;
+}
+
+.calendar-container {
+	border: solid 1px;
+	width: 60%;
+	float: left;
+  z-index: 1;
+  margin-left: 200px;
+}
+
+.calendar {
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+#footer{
+	display: inline-block;
+	margin-left: 42%;
+}

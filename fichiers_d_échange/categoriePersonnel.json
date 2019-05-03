@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "libelle": "Livreur",
+        "admin": false,
+        "livreur": true
+    },
+    {
+        "id": 2,
+        "libelle": "Administratif",
+        "admin": false,
+        "livreur": false
+    },
+    {
+        "id": 3,
+        "libelle": "Informaticien",
+        "admin": true,
+        "livreur": false
+    }
+]

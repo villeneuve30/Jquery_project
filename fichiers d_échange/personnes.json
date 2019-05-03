@@ -1,0 +1,42 @@
+[
+    {
+        "categorie": {
+            "id": 1,
+            "libelle": "Livreur"
+        },
+        "conges": [],
+        "id": 1,
+        "nom": "LIV1",
+        "prenom": "Livreur 1"
+    },
+    {
+        "categorie": {
+            "id": 1,
+            "libelle": "Livreur"
+        },
+        "conges": [],
+        "id": 2,
+        "nom": "LIV2",
+        "prenom": "Livreur 2"
+    },
+    {
+        "categorie": {
+            "id": 2,
+            "libelle": "Administratif"
+        },
+        "conges": [],
+        "id": 3,
+        "nom": "SEC1",
+        "prenom": "Secr\u00e9taire 1"
+    },
+    {
+        "categorie": {
+            "id": 2,
+            "libelle": "Administratif"
+        },
+        "conges": [],
+        "id": 4,
+        "nom": "SEC2",
+        "prenom": "Secr\u00e9taire 2"
+    }
+]

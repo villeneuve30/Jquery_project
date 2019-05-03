@@ -1,0 +1,44 @@
+#listeClients, #listeFactures {
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#table_clients, #table_factures, #table_produits, #table_retribution {
+    margin: 0 auto;
+    border: 1px solid;
+    width: 75%;
+}
+
+#table_produits {
+    margin-top: 2%;
+}
+
+table > thead > tr > th, table > tbody > tr > td {
+    border: 1px solid;
+}
+
+#table_retribution > tbody > tr > td {
+    border: 1px solid;
+}
+
+#table_produits + p {
+    margin-top: 0.5%;
+    margin-left: 70.25%;
+}
+
+
+#titreFacture {
+    font-size: 36px;
+    font-weight: bold;
+    padding-left: 40%;
+    padding-top: 5%
+}
+
+#infosClient {
+    font-family: "Arial", sans-serif;
+    font-size: 22px;
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
